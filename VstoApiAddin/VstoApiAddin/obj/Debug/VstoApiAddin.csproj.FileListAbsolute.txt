@@ -1,0 +1,15 @@
+C:\POC\VstoApiAddin\VstoApiAddin\obj\Debug\VstoApiAddin.csproj.AssemblyReference.cache
+C:\POC\VstoApiAddin\VstoApiAddin\obj\Debug\VstoApiAddin.Properties.Resources.resources
+C:\POC\VstoApiAddin\VstoApiAddin\obj\Debug\VstoApiAddin.SampleControl.resources
+C:\POC\VstoApiAddin\VstoApiAddin\obj\Debug\VstoApiAddin.csproj.GenerateResource.cache
+C:\POC\VstoApiAddin\VstoApiAddin\obj\Debug\VstoApiAddin.csproj.CoreCompileInputs.cache
+C:\POC\VstoApiAddin\VstoApiAddin\bin\Debug\VstoApiAddin.dll
+C:\POC\VstoApiAddin\VstoApiAddin\bin\Debug\VstoApiAddin.pdb
+C:\POC\VstoApiAddin\VstoApiAddin\bin\Debug\VstoApiAddin.dll.manifest
+C:\POC\VstoApiAddin\VstoApiAddin\bin\Debug\VstoApiAddin.vsto
+C:\POC\VstoApiAddin\VstoApiAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\POC\VstoApiAddin\VstoApiAddin\obj\Debug\VstoApiAddin.csproj.CopyComplete
+C:\POC\VstoApiAddin\VstoApiAddin\obj\Debug\VstoApiAddin.dll
+C:\POC\VstoApiAddin\VstoApiAddin\obj\Debug\VstoApiAddin.pdb
+C:\POC\VstoApiAddin\VstoApiAddin\bin\Debug\Newtonsoft.Json.dll
+C:\POC\VstoApiAddin\VstoApiAddin\bin\Debug\Newtonsoft.Json.xml
