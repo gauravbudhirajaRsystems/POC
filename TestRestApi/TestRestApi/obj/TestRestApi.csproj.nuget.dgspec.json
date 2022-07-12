@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\POC\\TestRestApi\\TestRestApi\\TestRestApi.csproj": {}
+    "C:\\R Systems Git\\POC\\TestRestApi\\TestRestApi\\TestRestApi.csproj": {}
   },
   "projects": {
-    "C:\\POC\\TestRestApi\\TestRestApi\\TestRestApi.csproj": {
+    "C:\\R Systems Git\\POC\\TestRestApi\\TestRestApi\\TestRestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\POC\\TestRestApi\\TestRestApi\\TestRestApi.csproj",
+        "projectUniqueName": "C:\\R Systems Git\\POC\\TestRestApi\\TestRestApi\\TestRestApi.csproj",
         "projectName": "TestRestApi",
-        "projectPath": "C:\\POC\\TestRestApi\\TestRestApi\\TestRestApi.csproj",
+        "projectPath": "C:\\R Systems Git\\POC\\TestRestApi\\TestRestApi\\TestRestApi.csproj",
         "packagesPath": "C:\\Users\\gaurav.budhiraja\\.nuget\\packages\\",
-        "outputPath": "C:\\POC\\TestRestApi\\TestRestApi\\obj\\",
+        "outputPath": "C:\\R Systems Git\\POC\\TestRestApi\\TestRestApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gaurav.budhiraja\\AppData\\Roaming\\NuGet\\NuGet.Config",

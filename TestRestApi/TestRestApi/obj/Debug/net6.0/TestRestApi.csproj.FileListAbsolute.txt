@@ -25,3 +25,30 @@ C:\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\refint\TestRestApi.dll
 C:\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.pdb
 C:\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.genruntimeconfig.cache
 C:\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\ref\TestRestApi.dll
+C:\R Systems Git\POC\TestRestApi\TestRestApi\bin\Debug\net6.0\appsettings.Development.json
+C:\R Systems Git\POC\TestRestApi\TestRestApi\bin\Debug\net6.0\appsettings.json
+C:\R Systems Git\POC\TestRestApi\TestRestApi\bin\Debug\net6.0\TestRestApi.exe
+C:\R Systems Git\POC\TestRestApi\TestRestApi\bin\Debug\net6.0\TestRestApi.deps.json
+C:\R Systems Git\POC\TestRestApi\TestRestApi\bin\Debug\net6.0\TestRestApi.runtimeconfig.json
+C:\R Systems Git\POC\TestRestApi\TestRestApi\bin\Debug\net6.0\TestRestApi.dll
+C:\R Systems Git\POC\TestRestApi\TestRestApi\bin\Debug\net6.0\TestRestApi.pdb
+C:\R Systems Git\POC\TestRestApi\TestRestApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\R Systems Git\POC\TestRestApi\TestRestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\R Systems Git\POC\TestRestApi\TestRestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\R Systems Git\POC\TestRestApi\TestRestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.csproj.AssemblyReference.cache
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.AssemblyInfoInputs.cache
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.AssemblyInfo.cs
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.csproj.CoreCompileInputs.cache
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\scopedcss\bundle\TestRestApi.styles.css
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.csproj.CopyComplete
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.dll
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\refint\TestRestApi.dll
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.pdb
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\TestRestApi.genruntimeconfig.cache
+C:\R Systems Git\POC\TestRestApi\TestRestApi\obj\Debug\net6.0\ref\TestRestApi.dll

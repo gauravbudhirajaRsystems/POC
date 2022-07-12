@@ -8,7 +8,6 @@ namespace TestRestApi.Controllers
         [HttpPost("spellcheck")]
         public IActionResult SpellCheck([FromBody] Paragraph paragraph)
         {
-
             Issue issue = new()
             {
                 Id = paragraph.ParagraphId,
